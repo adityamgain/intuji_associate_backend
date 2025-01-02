@@ -17,7 +17,7 @@
 <h2>Installation</h2>
 <ol>
     <li>Clone the repository:
-        <pre><code>git clone https://github.com/adityamgain/intuji_associate_backend.git
+        <pre><code>git clone https://github.com/adityamgain/intuji_associate_backend.git</pre></code>
 
 <h2>API Endpoints</h2>
 <h3>Posts</h3>
